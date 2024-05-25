@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2024-05-11T20:21:45.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Luo7AqPIsmDRU9myg5E2" version="24.4.0" type="device">
+  <diagram name="Page-1" id="GBH5V2oYPXVnv9VLmhXb">
+    <mxGraphModel dx="2023" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NhXfv_cz68juGHo87SN7-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-31" target="9Vd1aVT_qSOfoMeBfnX0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-1" target="9Vd1aVT_qSOfoMeBfnX0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-1" value="&lt;b&gt;Investigating The Problem&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-2" target="9Vd1aVT_qSOfoMeBfnX0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-2" value="&lt;b&gt;Reviewing Articles and Trends&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-4" target="9Vd1aVT_qSOfoMeBfnX0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-4" value="&lt;b&gt;Identifying Key Questions and Interview Candidates&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-5" target="9Vd1aVT_qSOfoMeBfnX0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-5" value="&lt;b&gt;Conducting Interviews&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-6" target="9Vd1aVT_qSOfoMeBfnX0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-6" value="&lt;b&gt;Analyzing Collected Data&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-7" target="9Vd1aVT_qSOfoMeBfnX0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-7" target="9Vd1aVT_qSOfoMeBfnX0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-7" value="Determining the Main Focus of Our Project" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="120" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-8" target="9Vd1aVT_qSOfoMeBfnX0-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-8" value="&lt;b&gt;Creating UML Diagrams&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-9" target="9Vd1aVT_qSOfoMeBfnX0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-9" value="Sketching Application Interfaces" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-80" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-10" target="9Vd1aVT_qSOfoMeBfnX0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-10" target="9Vd1aVT_qSOfoMeBfnX0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-10" value="Architecting the System" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-400" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-11" target="9Vd1aVT_qSOfoMeBfnX0-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-11" value="Establishing Project Expectations" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-480" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-12" target="9Vd1aVT_qSOfoMeBfnX0-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-12" value="Developing a Testing Strategy" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-280" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9Vd1aVT_qSOfoMeBfnX0-13" target="NhXfv_cz68juGHo87SN7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-13" value="Implementing Code" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-406" y="560" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-24" value="&lt;b&gt;Activi&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Creating%20UML%20Diagrams%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22400%22%20y%3D%22560%22%20width%3D%2280%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;ty&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-60" y="480" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9Vd1aVT_qSOfoMeBfnX0-26" value="&lt;b&gt;UC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NhXfv_cz68juGHo87SN7-17" target="9Vd1aVT_qSOfoMeBfnX0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NhXfv_cz68juGHo87SN7-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="560" width="40" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
